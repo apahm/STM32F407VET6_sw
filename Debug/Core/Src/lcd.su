@@ -1,0 +1,9 @@
+../Core/Src/lcd.c:9:22:DelayMicro	16	static
+../Core/Src/lcd.c:15:6:LCD_WriteByteI2CLCD	24	static
+../Core/Src/lcd.c:21:6:sendhalfbyte	16	static
+../Core/Src/lcd.c:31:6:sendbyte	24	static
+../Core/Src/lcd.c:40:6:LCD_Clear	8	static
+../Core/Src/lcd.c:46:6:LCD_SendChar	16	static
+../Core/Src/lcd.c:51:6:LCD_String	24	static
+../Core/Src/lcd.c:61:6:LCD_SetPos	16	static
+../Core/Src/lcd.c:84:6:LCD_ini	8	static
